@@ -1,4 +1,4 @@
-# ONN_Optimization
+# ONN Optimization
 
 The ONN.py file provides the sample Python code for the Optimization Assisted by Neural-Networks.
 The pseudocode, mathematical formulations, benchmark examples and other details are discussed in
